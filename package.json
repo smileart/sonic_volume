@@ -1,0 +1,21 @@
+{
+  "name": "sonic_volume",
+  "version": "0.0.1",
+  "description": "Raspberry Pi 3 Sonic Voulme Adjustment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Serge Bedzhyk",
+  "license": "MIT",
+  "dependencies": {
+    "asyncawait": "^1.0.6",
+    "linear-conversion": "^5.0.0",
+    "linear-converter-to-go": "^5.1.0",
+    "pigpio": "^0.3.4",
+    "semaphore": "^1.0.5",
+    "shelljs": "^0.7.4"
+  },
+  "devDependencies": {
+  }
+}
