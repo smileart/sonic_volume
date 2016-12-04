@@ -1,7 +1,7 @@
 {
   "name": "sonic_volume",
   "version": "0.0.1",
-  "description": "Raspberry Pi 3 Sonic Voulme Adjustment",
+  "description": "Raspberry Pi 3 Sonic Volume Adjustment",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
